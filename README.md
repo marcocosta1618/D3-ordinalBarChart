@@ -1,5 +1,5 @@
 # Data visualization with D3.js
-## Global Heat Map with a categorical bar chart (1753 - 2015)
+## Global Heat Map with an ordinal bar chart (1753 - 2015)
 
 Third project about data visualization with [D3.js](https://d3js.org/).
 
